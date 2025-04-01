@@ -28,6 +28,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo em meus projetos:
 - **Power BI** 📈
 - **Knime** 📊
 - **GitHub Pages** 🌐
+- **GitBook** 📖
 
 ---
 
@@ -39,7 +40,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo em meus projetos:
 Acesse o repositório e tenha acesso ao código fonte: 
 
 ### Projeto 2: ["E-book: Javandor-Conceitos Básicos de Programação em JAVA"](https://thayss-organization.gitbook.io/javandor)
-"Aprenda os conceitos básicos de programação em JAVA com o E-book Javandor, inclui a linguagem JAVA no universo de Hogwarts, trazendo ensinamentos complexos de forma divertida e didática para facilitar o aprendizado daqueles que estão dando seus primeiros passos na programação" O E-Book foi desenvolvido à partir da idéia do desafio de projeto "Lab Natty or Not", onde fiz uso de ferramentas de Inteligência Artificial para criação de conteúdo didático.
+"Aprenda os conceitos básicos de programação em JAVA com o E-book Javandor, inclui a linguagem JAVA no universo de Hogwarts, trazendo ensinamentos complexos de forma divertida e didática para facilitar o aprendizado daqueles que estão dando seus primeiros passos na programação" O E-Book foi desenvolvido à partir da idéia do desafio de projeto "Lab Natty or Not", onde fiz uso de ferramentas de IA Generativa para criação de conteúdo.
 
 Acesse o repositório e tenha acesso ao código fonte: [lab-natty-or-not](https://github.com/lirazootech/lab-natty-or-not)
 
