@@ -49,11 +49,13 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Perfil Análitico",
+      "Visão Estratégica",
+      "Comunicação Eficaz",
+      "Colaboração e Trabalho em Equipe",
+      "Adaptabilidade",
+      "Curiosidade e Aprendizado Contínuo",
+      "Organização e Gestão de Projetos"
     ]
   },
   "languages": [
@@ -76,14 +78,14 @@
   ],
   "Produção de Conteúdo": [
     {
-      "name": "xxxx",
-      "period": "xxxxx",
-      "description": "xxxx"
+      "name": "Modelagem de Dados com Metodologia Científica",
+      "url": "https://thayss-organization.gitbook.io/modelagem-de-dados-com-metodologia-cientifica",
+      "description": "Veja como a metodologia científica pode ser aplicada na prática para transformar projetos de dados em soluções estratégicas e impactantes"
     },
     {
-      "name": "xxxxx",
-      "period": "xxxx",
-      "description": "xxxx"
+      "name": "E-book: Javandor-Conceitos Básicos de Programação em JAVA",
+      "url": "https://thayss-organization.gitbook.io/javandor",
+      "description": "Aprenda os conceitos básicos de programação em JAVA com o E-book Javandor, inclui a linguagem JAVA no universo de Hogwarts, trazendo ensinamentos complexos de forma divertida e didática para facilitar o aprendizado daqueles que estão dando seus primeiros passos na programação"
     },
     {
       "name": "xxxx",
