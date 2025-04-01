@@ -1,0 +1,78 @@
+{
+  "name": "Thays Lira",
+  "photo": "https://avatars.githubusercontent.com/u/160921777?s=96&v=4",
+  "job": "Cientista de Dados",
+  "location": "Recife-PE",
+  "phone": "(81) 99545-3178",
+  "email": "lirazootech@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Francês (avançado)",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "",
+      "url": "",
+      "github": true
+    },
+    {
+      "name": "",
+      "url": "",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "xxxx",
+      "period": "xxxxx",
+      "description": "xxxx"
+    },
+    {
+      "name": "xxxxx",
+      "period": "xxxx",
+      "description": "xxxx"
+    },
+    {
+      "name": "xxxx",
+      "period": "xxxxx",
+      "description": "xxxxx"
+    }
+  ]
+}
