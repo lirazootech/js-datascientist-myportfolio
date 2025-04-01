@@ -1,4 +1,4 @@
-# Olá, bom te ter por aqui! 👋 Seja muito bem-vindo!
+# Olá, bom te ter por aqui. 👋 Seja muito bem-vindo!
 
 Este repositório contém meu portfólio de projetos desenvolvidos como Cientista de Dados. Aqui você encontrará uma coleção dos meus trabalhos, demonstrando minhas habilidades e experiências na área de ciência de dados. 🚀
 
@@ -55,9 +55,10 @@ git clone https://github.com/lirazootech/js-datascientist-myportfolio.git
 
 ```
 
-📫 Contato
+## 📫 Contato
+
 Fique à vontade para entrar em contato comigo através dos seguintes canais:
 
-LinkedIn: [Thays Lira]("https://linkedin.com/in/lirazootech")
+🔗 LinkedIn: [Thays Lira](https://linkedin.com/in/lirazootech)
 
-E-mail: lirazootech@outlook.com
+📧 E-mail: lirazootech@outlook.com
