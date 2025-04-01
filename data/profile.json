@@ -66,17 +66,17 @@
   ],
   "portfolio": [
     {
-      "name": "",
-      "url": "",
+      "name": "Javandor",
+      "url": "https://github.com/lirazootech/Javandor",
       "github": true
     },
     {
-      "name": "",
-      "url": "",
+      "name": "resolvendo-codigos-py-copilot",
+      "url": "https://github.com/lirazootech/resolvendo-codigos-py-copilot",
       "github": true
     }
   ],
-  "Produção de Conteúdo": [
+    "Produção de Conteúdo": [
     {
       "name": "Modelagem de Dados com Metodologia Científica",
       "url": "https://thayss-organization.gitbook.io/modelagem-de-dados-com-metodologia-cientifica",
@@ -86,11 +86,6 @@
       "name": "E-book: Javandor-Conceitos Básicos de Programação em JAVA",
       "url": "https://thayss-organization.gitbook.io/javandor",
       "description": "Aprenda os conceitos básicos de programação em JAVA com o E-book Javandor, inclui a linguagem JAVA no universo de Hogwarts, trazendo ensinamentos complexos de forma divertida e didática para facilitar o aprendizado daqueles que estão dando seus primeiros passos na programação"
-    },
-    {
-      "name": "xxxx",
-      "period": "xxxxx",
-      "description": "xxxxx"
     }
-  ]
+]
 }
